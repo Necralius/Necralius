@@ -18,8 +18,5 @@ I am currently working as a Unity Programmer, <br>developing commercial games fr
 ---
 [![](https://visitcount.itsvg.in/api?id=Necralius&icon=2&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/donate/?hosted_button_id=72MBED3ACVASW) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
